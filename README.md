@@ -6,4 +6,4 @@ Requirements
 ------------
 1) wxPython
 2) SimpleCV
-4) Python-v4l2 library (To determine the type of camera)
+3) Python-v4l2 library (To determine the type of camera)
